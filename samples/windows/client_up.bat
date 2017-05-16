@@ -6,7 +6,7 @@ REM all key value pairs in ShadowVPN config file will be passed to this script
 REM as environment variables, except password
 
 REM user-defined variables
-SET remote_tun_ip=10.7.0.0
+SET remote_tun_ip=10.7.0.1
 SET dns_server=8.8.8.8
 SET orig_intf="Ethernet"
 
